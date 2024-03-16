@@ -18,6 +18,7 @@ O Help For Animals foi desenvolvido para ONGs se cadastrarem e poderem exibir se
 ## 🔖 Como executar em sua máquina
 - Baixe o código
 - Baixe o código de minha api e siga as instruções de como rodar ele no seu pc
+- Execute o comando Yarn
 - Execute o comando Yarn Start neste repositório
 
 Tem o objetivo de
