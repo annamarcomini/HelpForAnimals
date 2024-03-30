@@ -1,4 +1,4 @@
-## 🚀 Tecnologias
+## 🚀 Tecnologias/ Technologies
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -11,17 +11,28 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Api construída por mim com Node.js https://github.com/annamarcomini/backendHelpforAnimals
 
-## 💻 Projeto
+  This project was developed with the following technologies:
 
-O Help For Animals foi desenvolvido para ONGs se cadastrarem e poderem exibir seus casos para achar um herói, a fim de ajudar financeiramente nos resgastes de animais.
+- React and CSS
+- JavaScript
+- React Icons
+- ReactQuery
+- Axios
+- Socket.io
+- Git and Github
+- Api built by me with Node.js https://github.com/annamarcomini/backendHelpforAnimals
+
+## 💻 Projeto/ Project
+
+O Help For Animals foi desenvolvido para ONGs se cadastrarem e poderem exibir seus casos para achar um herói, a fim de ajudar financeiramente nos resgastes de animais./ Help For Animals was developed for NGOs to register and be able to showcase their cases to find a hero, in order to help financially with animal rescues.
 
 ## 🔖 Como executar em sua máquina
-- Baixe o código
-- Baixe o código de minha api e siga as instruções de como rodar ele no seu pc
-- Execute o comando Yarn
-- Execute o comando Yarn Start neste repositório
+- Baixe o código/ Download the code
+- Baixe o código de minha api e siga as instruções de como rodar ele no seu pc/ Download my api code and follow the instructions on how to run it on your PC
+- Execute o comando Yarn/ Run the Yarn command
+- Execute o comando Yarn Start neste repositório/ Run the Yarn Start command on this repository
 
-Tem o objetivo de
+
 
 ![Captura de tela 2024-03-06 214427](https://github.com/annamarcomini/HelpForAnimals/assets/116853315/8e70af6b-917a-4017-bc0e-e9a6c8c2a44a)
 
