@@ -33,7 +33,7 @@
     width: 100%; /* Definindo a largura da imagem como 100% */
     max-width: 100%;
     height: auto; /* Mantendo a proporção da imagem */
-     margin-top: 20px; /*Adicionando uma margem superior para separar a imagem do formulário em telas menores*/ 
+    margin-top: 20px; /*Adicionando uma margem superior para separar a imagem do formulário em telas menores*/ 
   }
 
   .login-container section.form{
